@@ -1,0 +1,4 @@
+hello-world
+===========
+
+Following https://guides.github.com/activities/hello-world/ because why not?
